@@ -74,7 +74,7 @@ object App extends CatsApp {
 
 ```
 
-Step build your project: `sbt package`
+**Step 5**. build the project: `sbt package`
 
 Copy the program jar from `{projectDir}/target/scala-2.13` to `./spark-worker-0.0.1-RC6/lib`
 
