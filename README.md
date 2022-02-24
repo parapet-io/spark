@@ -1,4 +1,4 @@
-# A Spark like framework built using parapet
+# A toy Spark framework built using parapet
 
 This repo provides a guide on how to use a toy-spark framework built with parapet.
 
